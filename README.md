@@ -1,3 +1,3 @@
 # recipe-website
 
-This project will be a website, where you can look at three recipes. It will be a simple HTML implementation, to show off my skills at writing up HTML code. Including: boilerplate code, and simple tags like <em> or <strong>.
+This project is my first time working with git and HTML. It is a website on which you can find three recipes. I'm trying to practice my HTML boilerplate code, HTML tags and ability to write git commit messages. 
