@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'MagilioRegular';
+    src: url(../fonts/MagilioRegular-Yzv2O.ttf);
+}
+
+body {
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+h1 {
+    font-family: 'MagilioRegular', sans-serif;
+    text-align: center;
+    font-size: 48px;
+    color: white;
+}
+
+.water-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border: 25px solid white;
+}
