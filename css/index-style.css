@@ -11,7 +11,7 @@ body {
 h1 {
     font-family: 'MagilioRegular', sans-serif;
     text-align: center;
-    font-size: 48px;
+    font-size: 80px;
     color: white;
 }
 
@@ -19,6 +19,18 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 85%;
     border: 25px solid white;
+}
+
+#link-list {
+    text-align: center;
+}
+
+#link-list li {
+    font-size: 40px;
+    display: inline;
+    margin: 130px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
